@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is RichardCheese and this is my github!
 
 <!--
 **richcheeses/richcheeses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
